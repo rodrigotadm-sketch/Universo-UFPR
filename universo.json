@@ -1,0 +1,159 @@
+{
+  "title": "UNIVERSO UFPR — BIOMEDICINA",
+  "subtitle": "Conheça o Curso de Biomedicina da Universidade Federal do Paraná",
+  "next_edition": {
+    "year": "2027",
+    "status": "Aguardando divulgação",
+    "date": "",
+    "time": "",
+    "location": "",
+    "address": "",
+    "official_url": "",
+    "individual_registration_url": "",
+    "school_registration_url": "",
+    "biomedicine_stand": "",
+    "biomedicine_program_url": "",
+    "note": "A UFPR ainda não divulgou oficialmente as informações da próxima edição."
+  },
+  "about_event": "O Universo UFPR é o evento institucional de apresentação dos cursos, projetos, ações de pesquisa, extensão, cultura e oportunidades acadêmicas da Universidade Federal do Paraná. A página da Biomedicina foi organizada para orientar estudantes, famílias e escolas interessados em conhecer o curso.",
+  "about_course": [
+    {
+      "title": "O que faz o biomédico?",
+      "text": "O biomédico atua em diferentes áreas das Ciências da Saúde, com formação voltada a análises, pesquisa, diagnóstico, inovação e atuação multiprofissional."
+    },
+    {
+      "title": "Como é o curso na UFPR?",
+      "text": "A graduação combina formação básica, conteúdos profissionais, atividades práticas, pesquisa, extensão, estágio obrigatório e Trabalho de Conclusão de Curso."
+    },
+    {
+      "title": "Pesquisa e iniciação científica",
+      "text": "Estudantes podem participar de grupos de pesquisa, iniciação científica, projetos institucionais e atividades de produção do conhecimento."
+    },
+    {
+      "title": "Extensão",
+      "text": "As Atividades Curriculares de Extensão aproximam a formação acadêmica da sociedade e integram a matriz curricular do curso."
+    },
+    {
+      "title": "Estágios",
+      "text": "O curso possui estágio supervisionado obrigatório e também admite estágios não obrigatórios conforme as normas institucionais."
+    },
+    {
+      "title": "Vida acadêmica",
+      "text": "CABIOM, Empresa Júnior, eventos acadêmicos, mobilidade e outras atividades complementam a formação universitária."
+    }
+  ],
+  "event_biomedicine": {
+    "title": "Biomedicina no Universo UFPR",
+    "items": [
+      {
+        "label": "Local do estande",
+        "value": "A confirmar"
+      },
+      {
+        "label": "Horário de atendimento",
+        "value": "A confirmar"
+      },
+      {
+        "label": "Atividades práticas",
+        "value": "A confirmar"
+      },
+      {
+        "label": "Palestras e apresentações",
+        "value": "A confirmar"
+      },
+      {
+        "label": "Docentes e estudantes participantes",
+        "value": "A confirmar"
+      },
+      {
+        "label": "Materiais de divulgação",
+        "value": "A confirmar"
+      }
+    ]
+  },
+  "visitor": {
+    "title": "Vai visitar o evento?",
+    "items": [
+      {
+        "title": "Entrada",
+        "text": "Consulte a edição vigente para informações de acesso e inscrição."
+      },
+      {
+        "title": "Como chegar",
+        "text": "O endereço e orientações de acesso serão exibidos assim que divulgados oficialmente."
+      },
+      {
+        "title": "Inscrição individual",
+        "text": "O link será disponibilizado quando a UFPR abrir as inscrições."
+      },
+      {
+        "title": "Agendamento de escolas",
+        "text": "Quando houver agendamento específico para escolas, o acesso será exibido nesta página."
+      },
+      {
+        "title": "Programação oficial",
+        "text": "A programação geral será vinculada diretamente ao site oficial do evento."
+      },
+      {
+        "title": "Programação da Biomedicina",
+        "text": "Atividades específicas do curso poderão ser destacadas separadamente."
+      }
+    ]
+  },
+  "course_links": [
+    {
+      "label": "Grade Horária",
+      "url": "https://rodrigotadm-sketch.github.io/Grade-Hor-ria---Biomedicina/"
+    },
+    {
+      "label": "Estágios",
+      "url": "https://rodrigotadm-sketch.github.io/Est-gio/"
+    },
+    {
+      "label": "Trabalho de Conclusão de Curso",
+      "url": "https://rodrigotadm-sketch.github.io/TCC/"
+    },
+    {
+      "label": "Mobilidade Acadêmica",
+      "url": "https://rodrigotadm-sketch.github.io/Mobilidade/"
+    },
+    {
+      "label": "Empresa Júnior — Chromos",
+      "url": "https://rodrigotadm-sketch.github.io/Empresa-Junior/"
+    },
+    {
+      "label": "CABIOM — Centro Acadêmico",
+      "url": "https://rodrigotadm-sketch.github.io/CAbiom/"
+    },
+    {
+      "label": "Atividades Formativas e Extensão",
+      "url": "https://rodrigotadm-sketch.github.io/Atividade-Formativa-e-Extens-o/"
+    },
+    {
+      "label": "Calendário Acadêmico",
+      "url": "https://rodrigotadm-sketch.github.io/Calend-rio---UFPR/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2026",
+      "title": "Universo UFPR 2026",
+      "date": "11 a 14 de junho de 2026",
+      "location": "Centro de Eventos Positivo — Parque Barigui",
+      "attendance": "Mais de 110 mil visitantes",
+      "note": "Edição com participação dos cursos de graduação e ampla programação institucional."
+    },
+    {
+      "year": "2025",
+      "title": "Universo UFPR 2025",
+      "date": "",
+      "location": "",
+      "attendance": "Mais de 120 mil visitantes",
+      "note": "Primeira edição sob a denominação Universo UFPR, sucedendo a antiga Feira de Cursos e Profissões."
+    }
+  ],
+  "contact": {
+    "email": "biomedicina@ufpr.br",
+    "phone": "(41) 3361-1744"
+  }
+}
